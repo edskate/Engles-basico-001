@@ -529,6 +529,125 @@
                             "actionType": "Idle"
                         }
                     ]
+                },
+                {
+                    "date": "Mon Oct 26 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "d047d313-28bb-40db-b9ce-b60ef9e27153",
+                                "duration": 78328,
+                                "idle": 78328,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "9c973bba-9a95-4b16-8f32-ed678e6be200",
+                                        "state": "Ongoing",
+                                        "begin": 1792992651258,
+                                        "end": 1792992651258,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    "",
+                                    ".html"
+                                ]
+                            },
+                            "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "88bf19da-0493-4feb-8983-0b24147f10dc",
+                                "duration": 3744,
+                                "idle": 3744,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "20a8d08f-5ab0-4d14-aa21-f072e0dd06a7",
+                                        "state": "Ongoing",
+                                        "begin": 1792992729586,
+                                        "end": 1792992729586,
+                                        "duration": 0
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".translate-inline-preview\\providers.json"
+                                ]
+                            },
+                            "actionType": "Documenting"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "c3c02f2d-1bbb-4fee-a48e-7cb3dfa67943",
+                                "duration": 686107,
+                                "idle": 754770,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "a791ca7b-f6e9-4648-8c4d-90c1b2097b55",
+                                        "state": "Idle",
+                                        "begin": 1792993487810,
+                                        "end": 1792993487810,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "5f78c847-cc96-40aa-8466-0efdd48817db",
+                                        "state": "Ongoing",
+                                        "begin": 1792993224474,
+                                        "end": 1792993487810,
+                                        "duration": 263336
+                                    },
+                                    {
+                                        "id": "cc26c486-129c-4af0-8a1c-bdd57db0a412",
+                                        "state": "Idle",
+                                        "begin": 1792993165434,
+                                        "end": 1792993224474,
+                                        "duration": 59040
+                                    },
+                                    {
+                                        "id": "d6524459-23d8-47f9-b0b7-b450a6f748fb",
+                                        "state": "Ongoing",
+                                        "begin": 1792993034043,
+                                        "end": 1792993165434,
+                                        "duration": 131391
+                                    },
+                                    {
+                                        "id": "8c5d0c84-56ef-4658-905c-975764a892e8",
+                                        "state": "Idle",
+                                        "begin": 1792993028981,
+                                        "end": 1792993034043,
+                                        "duration": 5062
+                                    },
+                                    {
+                                        "id": "79100be4-43bd-4e65-b908-8e220f7b2de5",
+                                        "state": "Ongoing",
+                                        "begin": 1792992891997,
+                                        "end": 1792993028981,
+                                        "duration": 136984
+                                    },
+                                    {
+                                        "id": "7ffaf659-c7d0-44a2-8d80-86891b5846f2",
+                                        "state": "Idle",
+                                        "begin": 1792992887726,
+                                        "end": 1792992891997,
+                                        "duration": 4271
+                                    },
+                                    {
+                                        "id": "6d7830e9-0cdc-4046-aadf-5e71d6e9dc4c",
+                                        "state": "Ongoing",
+                                        "begin": 1792992733330,
+                                        "end": 1792992887726,
+                                        "duration": 154396
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".html",
+                                    ".vscode-kubernetes-tools-#1-Kubernetes"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
                 }
             ]
         }
